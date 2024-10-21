@@ -1,3 +1,2 @@
 php:latest
 mariadb:latest
-redis:latest
